@@ -13,6 +13,8 @@
 - removeMember(): removes a member
 - printMembers(): prints out information about members
 - calculateMembership(): calculates the cost of a membership
+- addSponsor(): adds a sponsor
+- printSponsors(): prints out information about sponsors
 
 ## Obiecte:
 - SportsComplex
@@ -23,3 +25,5 @@
 - Ground
 - Football
 - Tennis
+- Sponsor
+- Main
